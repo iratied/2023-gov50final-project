@@ -11,4 +11,4 @@ output:
 
 ## Project thoughts
 
-I am interested in exploring data related to governance indicators. I am particularly interested in Nigeria, the Middle East, and the European Union. I would also potentially be interested in something having to due with currency, particularly as use of the Renminbi becomes more widespread. 
+I am interested in exploring data related to governance indicators. I am particularly interested in Nigeria, the Middle East, and the European Union. I would also potentially be interested in something having to due with currency, particularly as use of the Renminbi becomes more widespread. Or alternatively, I would be interested in researching government satisfaction in authoritarian states and how different forms of government result in different levels of satisfaction. 
